@@ -1,0 +1,19 @@
+{
+  "name": "gongbaochicken.github.io",
+  "version": "1.0.0",
+  "description": "Hello, everyone. I am Jason Zhuo Jia, a MS student at Electrical and Computer Engineering of Duke University.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gongbaochicken/gongbaochicken.github.io.git"
+  },
+  "author": "Zhuo Jia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gongbaochicken/gongbaochicken.github.io/issues"
+  },
+  "homepage": "https://github.com/gongbaochicken/gongbaochicken.github.io"
+}
